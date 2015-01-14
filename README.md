@@ -1,2 +1,4 @@
 # getwild
 sinatra
+
+sinatraとsinatra-contribをインストール
